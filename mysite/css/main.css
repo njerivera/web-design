@@ -1,0 +1,83 @@
+body{
+	background-color:white;
+	font-family:century gothic;
+
+}
+
+.centre {
+	width:1200;
+	margin:0 auto;
+
+}
+.hero a{
+	float:right;
+	padding:20px 0 0 20px;
+	text-decoration:none;
+	color:black;
+	font-weight:bold;
+	margin:0 20px 0 10px;
+}
+.intro{
+	background-color:white;
+	min-height:300px;
+}
+.about{
+	width:1200px;
+	margin:0 auto;
+
+}
+.about h1{
+	text-align:center;
+}
+.skills{
+	min-height:300px;
+	background-color:#f2f2f1;
+}
+
+
+.myskils{
+	width:1200px;
+	margin:0 auto;
+	min-height:600px;	
+}
+.one{
+	float:left;
+	width:45%;
+}
+.two{
+	float:right;
+	width:45%;
+}
+.resume{
+	min-height:250px;
+	background-color:white;
+}
+.res{
+	width:1200px;
+	margin:0 auto;
+}
+.rm h3{
+	text-align:center;
+}
+.rm a{
+	font-size:14px;
+	border:1px solid #fff;
+	background-color:black;
+	color:white;
+	text-align:center;
+	padding:15px 25px;
+	display:table;
+	margin:20px auto 0 auto;
+	text-decoration:none;
+}
+.portfolio{
+	min-height:200px;
+	background-color:#f2f2f1;
+}
+.port{
+	width:1200px;
+	margin:0 auto;
+}
+.port h5{
+	text-align:center;
+}
